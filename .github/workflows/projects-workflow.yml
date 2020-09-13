@@ -6,12 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-projects:
+    name: Update this repo's README with latest projects
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PROJECTS"
-          feed_list: "https://mattstruble.com/feed/projects"
+          feed_list: "https://mattstruble.com/feed/projects.xml"
