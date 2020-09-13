@@ -32,6 +32,8 @@
 
 ### 🛠 Latest Projects 
 <!-- PROJECTS:START -->
+- [Analyzing Climate Change Stance Through Twitter Data](https://mattstruble.com/projects/analyzing-climate-change)
+- [Heineken® AR Cheers Campaign](https://mattstruble.com/projects/heineken-ar)
 <!-- PROJECTS:END -->
 
 ➡️ [more projects...](https://mattstruble.com/projects)
