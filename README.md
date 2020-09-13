@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Matt!</h1>
-<h4 align="center">I'm a deep learning engineer that never saves anything for the swim back.</h4> 
-<h4 align='center'>Let's make something beautiful together!</h4>
+<h2 align="center">I'm a deep learning engineer that never saves anything for the swim back.</h4> 
+<h2 align='center'>Let's make something beautiful together!</h4>
 
 ### Connect with me:
 
