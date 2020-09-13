@@ -50,6 +50,12 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com//mattstruble/mattstruble.github.io/pull/5) in [mattstruble/mattstruble.github.io](https://github.com//mattstruble/mattstruble.github.io)
+2. 💪 Opened PR [#5](https://github.com//mattstruble/mattstruble.github.io/pull/5) in [mattstruble/mattstruble.github.io](https://github.com//mattstruble/mattstruble.github.io)
+3. 🎉 Merged PR [#4](https://github.com//mattstruble/mattstruble.github.io/pull/4) in [mattstruble/mattstruble.github.io](https://github.com//mattstruble/mattstruble.github.io)
+4. 💪 Opened PR [#4](https://github.com//mattstruble/mattstruble.github.io/pull/4) in [mattstruble/mattstruble.github.io](https://github.com//mattstruble/mattstruble.github.io)
+5. 🎉 Merged PR [#3](https://github.com//mattstruble/mattstruble.github.io/pull/3) in [mattstruble/mattstruble.github.io](https://github.com//mattstruble/mattstruble.github.io)
+<!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
 </details>
