@@ -41,6 +41,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST:START -->
+- [Strengthening Deep Learning Concepts](https://mattstruble.com/blog/strengthening-dl-concepts)
 - [Overcoming Self-Doubt in Pursuit of TensorFlow Certification](https://mattstruble.com/blog/overcoming-self-doubt)
 - [Automating Deep Learning Pipeline With NAS](https://mattstruble.com/blog/automating-dl-pipeline)
 - [Utilizing Document Fingerprinting for Variable String Matching](https://mattstruble.com/blog/utilizing-document-fingerprinting)
