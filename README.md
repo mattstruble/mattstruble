@@ -41,11 +41,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST:START -->
+- [Deep Learning Photo Aesthetics - Data Pipeline Optimization](https://mattstruble.com/blog/dlpa-data-optimization)
 - [Deep Learning Photo Aesthetics - Data Preprocessing](https://mattstruble.com/blog/dlpa-data-preprocessing)
 - [Deep Learning Photo Aesthetics - Introduction and Data Analysis](https://mattstruble.com/blog/dlpa-intro-data-analysis)
 - [Strengthening Deep Learning Concepts](https://mattstruble.com/blog/strengthening-dl-concepts)
 - [Overcoming Self-Doubt in Pursuit of TensorFlow Certification](https://mattstruble.com/blog/overcoming-self-doubt)
-- [Automating Deep Learning Pipeline With NAS](https://mattstruble.com/blog/automating-dl-pipeline)
 <!-- BLOG-POST:END -->
 
 ➡️ [more blog posts...](https://mattstruble.com/blog)
