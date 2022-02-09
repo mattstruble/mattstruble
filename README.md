@@ -56,11 +56,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-2. 💪 Opened PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-3. 🎉 Merged PR [#21](https://github.com/mattstruble/mattstruble.github.io/pull/21) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-4. 💪 Opened PR [#21](https://github.com/mattstruble/mattstruble.github.io/pull/21) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-5. 🎉 Merged PR [#20](https://github.com/mattstruble/mattstruble.github.io/pull/20) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+1. 🎉 Merged PR [#1](https://github.com/mattstruble/gym-chrome-dino/pull/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
+2. 🗣 Commented on [#1](https://github.com/mattstruble/gym-chrome-dino/issues/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
+3. 🎉 Merged PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+4. 💪 Opened PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+5. 🎉 Merged PR [#21](https://github.com/mattstruble/mattstruble.github.io/pull/21) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
