@@ -41,11 +41,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST:START -->
+- [Interview - Overcoming Imposter Syndrome](https://mattstruble.com/blog/deeplearning-ai)
 - [Deep Learning Photo Aesthetics - Data Pipeline Optimization](https://mattstruble.com/blog/dlpa-data-optimization)
 - [Deep Learning Photo Aesthetics - Data Preprocessing](https://mattstruble.com/blog/dlpa-data-preprocessing)
 - [Deep Learning Photo Aesthetics - Introduction and Data Analysis](https://mattstruble.com/blog/dlpa-intro-data-analysis)
 - [Strengthening Deep Learning Concepts](https://mattstruble.com/blog/strengthening-dl-concepts)
-- [Overcoming Self-Doubt in Pursuit of TensorFlow Certification](https://mattstruble.com/blog/overcoming-self-doubt)
 <!-- BLOG-POST:END -->
 
 ➡️ [more blog posts...](https://mattstruble.com/blog)
