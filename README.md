@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mattstruble.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mattstruble.com)
+[<img align="left" alt="mattstruble.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.mattstruble.com)
 [<img align="left" alt="mestruble | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mestruble)
 [<img align="left" alt="mattstruble | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mattstruble)
 
