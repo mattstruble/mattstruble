@@ -55,8 +55,8 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2118](https://github.com/bazelbuild/rules_docker/issues/2118) in [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker)
-2. 💪 Opened PR [#23](https://github.com/mattstruble/mattstruble.github.io/pull/23) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+1. 🗣 Commented on [#64](https://github.com/bazel-contrib/bazel-mypy-integration/issues/64) in [bazel-contrib/bazel-mypy-integration](https://github.com/bazel-contrib/bazel-mypy-integration)
+2. 🗣 Commented on [#2118](https://github.com/bazelbuild/rules_docker/issues/2118) in [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker)
 3. 🎉 Merged PR [#1](https://github.com/mattstruble/gym-chrome-dino/pull/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
 4. 🗣 Commented on [#1](https://github.com/mattstruble/gym-chrome-dino/issues/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
 5. 🎉 Merged PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
