@@ -55,7 +55,7 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/mattstruble/dotfiles/issues/2) in [mattstruble/dotfiles](https://github.com/mattstruble/dotfiles)
+1. ❗ Opened issue [#2](https://github.com/VincentBerthier/auto-header.nvim/issues/2) in [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim)
 2. ❗️ Opened issue [#1](https://github.com/mattstruble/dotfiles/issues/1) in [mattstruble/dotfiles](https://github.com/mattstruble/dotfiles)
 3. 🎉 Merged PR [#1](https://github.com/mattstruble/gym-chrome-dino/pull/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
 4. 🗣 Commented on [#1](https://github.com/mattstruble/gym-chrome-dino/issues/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
