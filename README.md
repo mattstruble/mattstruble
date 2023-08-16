@@ -55,9 +55,9 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/VincentBerthier/auto-header.nvim/issues/2) in [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim)
-2. ❗️ Opened issue [#1](https://github.com/mattstruble/dotfiles/issues/1) in [mattstruble/dotfiles](https://github.com/mattstruble/dotfiles)
-3. 🎉 Merged PR [#1](https://github.com/mattstruble/gym-chrome-dino/pull/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
+1. 🔒 Closed issue [#1](https://github.com/mattstruble/resume/issues/1) in [mattstruble/resume](https://github.com/mattstruble/resume)
+2. 🎉 Merged PR [#2](https://github.com/mattstruble/resume/pull/2) in [mattstruble/resume](https://github.com/mattstruble/resume)
+3. ❗ Opened issue [#2](https://github.com/VincentBerthier/auto-header.nvim/issues/2) in [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim)
 4. 🗣 Commented on [#1](https://github.com/mattstruble/gym-chrome-dino/issues/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
 5. 🎉 Merged PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
 <!--END_SECTION:activity-->
