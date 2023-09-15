@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mattstruble/resume/issues/1) in [mattstruble/resume](https://github.com/mattstruble/resume)
-2. 🎉 Merged PR [#2](https://github.com/mattstruble/resume/pull/2) in [mattstruble/resume](https://github.com/mattstruble/resume)
-3. ❗ Opened issue [#2](https://github.com/VincentBerthier/auto-header.nvim/issues/2) in [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim)
-4. 🗣 Commented on [#1](https://github.com/mattstruble/gym-chrome-dino/issues/1) in [mattstruble/gym-chrome-dino](https://github.com/mattstruble/gym-chrome-dino)
-5. 🎉 Merged PR [#22](https://github.com/mattstruble/mattstruble.github.io/pull/22) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+1. 🎉 Merged PR [#24](https://github.com/mattstruble/mattstruble.github.io/pull/24) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+2. 💪 Opened PR [#24](https://github.com/mattstruble/mattstruble.github.io/pull/24) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+3. 🚀 Published release [Release v1.0.0](https://github.com/mattstruble/pre-commit-exiftool/releases/tag/v1.0.0) in [mattstruble/pre-commit-exiftool](https://github.com/mattstruble/pre-commit-exiftool)
+4. 🔒 Closed issue [#1](https://github.com/mattstruble/resume/issues/1) in [mattstruble/resume](https://github.com/mattstruble/resume)
+5. 🎉 Merged PR [#2](https://github.com/mattstruble/resume/pull/2) in [mattstruble/resume](https://github.com/mattstruble/resume)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
