@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/mattstruble/mattstruble.github.io/pull/24) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-2. 💪 Opened PR [#24](https://github.com/mattstruble/mattstruble.github.io/pull/24) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-3. 🚀 Published release [Release v1.0.0](https://github.com/mattstruble/pre-commit-exiftool/releases/tag/v1.0.0) in [mattstruble/pre-commit-exiftool](https://github.com/mattstruble/pre-commit-exiftool)
-4. 🔒 Closed issue [#1](https://github.com/mattstruble/resume/issues/1) in [mattstruble/resume](https://github.com/mattstruble/resume)
-5. 🎉 Merged PR [#2](https://github.com/mattstruble/resume/pull/2) in [mattstruble/resume](https://github.com/mattstruble/resume)
+1. 🎉 Merged PR [#27](https://github.com/mattstruble/mattstruble.github.io/pull/27) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+2. 💪 Opened PR [#27](https://github.com/mattstruble/mattstruble.github.io/pull/27) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+3. 🎉 Merged PR [#26](https://github.com/mattstruble/mattstruble.github.io/pull/26) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+4. 💪 Opened PR [#26](https://github.com/mattstruble/mattstruble.github.io/pull/26) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+5. ❗ Opened issue [#25](https://github.com/mattstruble/mattstruble.github.io/issues/25) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
