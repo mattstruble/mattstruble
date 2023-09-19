@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/mattstruble/responsive-images/issues/2) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-2. ❗ Opened issue [#1](https://github.com/mattstruble/responsive-images/issues/1) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-3. 🎉 Merged PR [#30](https://github.com/mattstruble/mattstruble.github.io/pull/30) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-4. 💪 Opened PR [#30](https://github.com/mattstruble/mattstruble.github.io/pull/30) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-5. 🎉 Merged PR [#29](https://github.com/mattstruble/mattstruble.github.io/pull/29) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
+1. 🚀 Published release [v0.1.1](https://github.com/mattstruble/responsive-images/releases/tag/v0.1.1) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+2. 🚀 Published release [v0.1.0](https://github.com/mattstruble/responsive-images/releases/tag/v0.1.0) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+3. ❗ Opened issue [#2](https://github.com/mattstruble/responsive-images/issues/2) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+4. ❗ Opened issue [#1](https://github.com/mattstruble/responsive-images/issues/1) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+5. 🎉 Merged PR [#30](https://github.com/mattstruble/mattstruble.github.io/pull/30) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
