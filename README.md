@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/mattstruble/responsive-images/issues/3) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-2. 🚀 Published release [v0.2.5](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.5) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-3. 🚀 Published release [v0.2.4](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.4) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-4. 🚀 Published release [v0.2.3](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.3) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
-5. 🚀 Published release [v0.2.2](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.2) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+1. 🚀 Published release [v0.3.0](https://github.com/mattstruble/optimize-images/releases/tag/v0.3.0) in [mattstruble/optimize-images](https://github.com/mattstruble/optimize-images)
+2. ❗ Opened issue [#3](https://github.com/mattstruble/responsive-images/issues/3) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+3. 🚀 Published release [v0.2.5](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.5) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+4. 🚀 Published release [v0.2.4](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.4) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+5. 🚀 Published release [v0.2.3](https://github.com/mattstruble/responsive-images/releases/tag/v0.2.3) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
