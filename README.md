@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/mattstruble/infra/issues/2) in [mattstruble/infra](https://github.com/mattstruble/infra)
-2. ❌ Closed PR [#1](https://github.com/mattstruble/infra/pull/1) in [mattstruble/infra](https://github.com/mattstruble/infra)
-3. 💪 Opened PR [#1](https://github.com/mattstruble/infra/pull/1) in [mattstruble/infra](https://github.com/mattstruble/infra)
-4. 🚀 Published release [v0.3.0](https://github.com/mattstruble/optimize-images/releases/tag/v0.3.0) in [mattstruble/optimize-images](https://github.com/mattstruble/optimize-images)
-5. ❗ Opened issue [#3](https://github.com/mattstruble/responsive-images/issues/3) in [mattstruble/responsive-images](https://github.com/mattstruble/responsive-images)
+1. 🎉 Merged PR [#3](https://github.com/mattstruble/infra/pull/3) in [mattstruble/infra](https://github.com/mattstruble/infra)
+2. 💪 Opened PR [#3](https://github.com/mattstruble/infra/pull/3) in [mattstruble/infra](https://github.com/mattstruble/infra)
+3. ❗ Opened issue [#2](https://github.com/mattstruble/infra/issues/2) in [mattstruble/infra](https://github.com/mattstruble/infra)
+4. ❌ Closed PR [#1](https://github.com/mattstruble/infra/pull/1) in [mattstruble/infra](https://github.com/mattstruble/infra)
+5. 💪 Opened PR [#1](https://github.com/mattstruble/infra/pull/1) in [mattstruble/infra](https://github.com/mattstruble/infra)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
