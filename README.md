@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/mattstruble/infra/issues/8) in [mattstruble/infra](https://github.com/mattstruble/infra)
-2. ❗ Opened issue [#7](https://github.com/mattstruble/infra/issues/7) in [mattstruble/infra](https://github.com/mattstruble/infra)
-3. ❗ Opened issue [#6](https://github.com/mattstruble/infra/issues/6) in [mattstruble/infra](https://github.com/mattstruble/infra)
-4. ❗ Opened issue [#5](https://github.com/mattstruble/infra/issues/5) in [mattstruble/infra](https://github.com/mattstruble/infra)
-5. 🗣 Commented on [#4](https://github.com/mattstruble/infra/issues/4#issuecomment-1801074933) in [mattstruble/infra](https://github.com/mattstruble/infra)
+1. 🎉 Merged PR [#9](https://github.com/mattstruble/infra/pull/9) in [mattstruble/infra](https://github.com/mattstruble/infra)
+2. 💪 Opened PR [#9](https://github.com/mattstruble/infra/pull/9) in [mattstruble/infra](https://github.com/mattstruble/infra)
+3. ❗ Opened issue [#8](https://github.com/mattstruble/infra/issues/8) in [mattstruble/infra](https://github.com/mattstruble/infra)
+4. ❗ Opened issue [#7](https://github.com/mattstruble/infra/issues/7) in [mattstruble/infra](https://github.com/mattstruble/infra)
+5. ❗ Opened issue [#6](https://github.com/mattstruble/infra/issues/6) in [mattstruble/infra](https://github.com/mattstruble/infra)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
