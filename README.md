@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/mattstruble/infra/pull/14) in [mattstruble/infra](https://github.com/mattstruble/infra)
-2. 💪 Opened PR [#14](https://github.com/mattstruble/infra/pull/14) in [mattstruble/infra](https://github.com/mattstruble/infra)
-3. 🎉 Merged PR [#13](https://github.com/mattstruble/infra/pull/13) in [mattstruble/infra](https://github.com/mattstruble/infra)
-4. ❌ Closed PR [#11](https://github.com/mattstruble/infra/pull/11) in [mattstruble/infra](https://github.com/mattstruble/infra)
-5. 💪 Opened PR [#13](https://github.com/mattstruble/infra/pull/13) in [mattstruble/infra](https://github.com/mattstruble/infra)
+1. 🎉 Merged PR [#15](https://github.com/mattstruble/infra/pull/15) in [mattstruble/infra](https://github.com/mattstruble/infra)
+2. 💪 Opened PR [#15](https://github.com/mattstruble/infra/pull/15) in [mattstruble/infra](https://github.com/mattstruble/infra)
+3. 🗣 Commented on [#12](https://github.com/mattstruble/infra/issues/12#issuecomment-1804755562) in [mattstruble/infra](https://github.com/mattstruble/infra)
+4. 🔒 Closed issue [#12](https://github.com/mattstruble/infra/issues/12) in [mattstruble/infra](https://github.com/mattstruble/infra)
+5. 🎉 Merged PR [#14](https://github.com/mattstruble/infra/pull/14) in [mattstruble/infra](https://github.com/mattstruble/infra)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
