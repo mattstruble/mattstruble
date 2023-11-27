@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Pillar-ML/.github/pull/2) in [Pillar-ML/.github](https://github.com/Pillar-ML/.github)
-2. 🎉 Merged PR [#1](https://github.com/Pillar-ML/.github/pull/1) in [Pillar-ML/.github](https://github.com/Pillar-ML/.github)
-3. 🎉 Merged PR [#1](https://github.com/Pillar-ML/pillar-ml.github.io/pull/1) in [Pillar-ML/pillar-ml.github.io](https://github.com/Pillar-ML/pillar-ml.github.io)
-4. 🎉 Merged PR [#2](https://github.com/Pillar-ML/pillar-ml.github.io/pull/2) in [Pillar-ML/pillar-ml.github.io](https://github.com/Pillar-ML/pillar-ml.github.io)
-5. 🎉 Merged PR [#16](https://github.com/mattstruble/infra/pull/16) in [mattstruble/infra](https://github.com/mattstruble/infra)
+1. 🎉 Merged PR [#17](https://github.com/mattstruble/infra/pull/17) in [mattstruble/infra](https://github.com/mattstruble/infra)
+2. 💪 Opened PR [#17](https://github.com/mattstruble/infra/pull/17) in [mattstruble/infra](https://github.com/mattstruble/infra)
+3. 🎉 Merged PR [#2](https://github.com/Pillar-ML/.github/pull/2) in [Pillar-ML/.github](https://github.com/Pillar-ML/.github)
+4. 🎉 Merged PR [#1](https://github.com/Pillar-ML/.github/pull/1) in [Pillar-ML/.github](https://github.com/Pillar-ML/.github)
+5. 🎉 Merged PR [#1](https://github.com/Pillar-ML/pillar-ml.github.io/pull/1) in [Pillar-ML/pillar-ml.github.io](https://github.com/Pillar-ML/pillar-ml.github.io)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
