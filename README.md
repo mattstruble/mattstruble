@@ -55,11 +55,11 @@
     <summary>:zap: Recent Github Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/mattstruble/mattstruble.github.io/pull/31) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
-2. 🎉 Merged PR [#3](https://github.com/mattstruble/dotfiles/pull/3) in [mattstruble/dotfiles](https://github.com/mattstruble/dotfiles)
-3. 💪 Opened PR [#3](https://github.com/mattstruble/dotfiles/pull/3) in [mattstruble/dotfiles](https://github.com/mattstruble/dotfiles)
-4. 🎉 Merged PR [#7](https://github.com/mattstruble/zero-router/pull/7) in [mattstruble/zero-router](https://github.com/mattstruble/zero-router)
-5. 🎉 Merged PR [#9](https://github.com/mattstruble/zero-router/pull/9) in [mattstruble/zero-router](https://github.com/mattstruble/zero-router)
+1. 🎉 Merged PR [#1](https://github.com/mattstruble/hugo-theme-catpuccin/pull/1) in [mattstruble/hugo-theme-catpuccin](https://github.com/mattstruble/hugo-theme-catpuccin)
+2. 💪 Opened PR [#1](https://github.com/mattstruble/hugo-theme-catpuccin/pull/1) in [mattstruble/hugo-theme-catpuccin](https://github.com/mattstruble/hugo-theme-catpuccin)
+3. ❌ Closed PR [#271](https://github.com/schnerring/hugo-theme-gruvbox/pull/271) in [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox)
+4. 💪 Opened PR [#271](https://github.com/schnerring/hugo-theme-gruvbox/pull/271) in [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox)
+5. ❌ Closed PR [#31](https://github.com/mattstruble/mattstruble.github.io/pull/31) in [mattstruble/mattstruble.github.io](https://github.com/mattstruble/mattstruble.github.io)
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity->>
 
