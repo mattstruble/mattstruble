@@ -26,6 +26,8 @@
 
 <br />
 
+[View my full CV](https://struble.dev/cv)
+
 ---
 
 ### 🛠 Latest Projects 
